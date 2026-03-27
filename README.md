@@ -1,5 +1,8 @@
 # Vouchers
 
+[![](https://poggit.pmmp.io/shield.api/AdvancedVouchers)](https://poggit.pmmp.io/p/AdvancedVouchers)
+
+
 A high-performance and feature-rich voucher system for **PocketMine-MP 5**, designed specifically for competitive servers. This plugin allows administrators to create custom items that execute commands when used by players.
 
 ## Features
