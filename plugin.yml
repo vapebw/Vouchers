@@ -1,0 +1,10 @@
+name: Vouchers
+version: 1.0.0
+main: vape\vouchers\VoucherPlugin
+api: 5.0.0
+description: Functional vouchers system with console/player executors
+author: sxvape
+permissions:
+  vouchers.admin:
+    default: op
+    description: Access to voucher management commands
